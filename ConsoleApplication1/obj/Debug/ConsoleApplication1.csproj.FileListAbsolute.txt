@@ -4,3 +4,6 @@ C:\Users\Bruger\Desktop\Visual Studio 2013\SmartGit\ConsoleApplication1\bin\Debu
 C:\Users\Bruger\Desktop\Visual Studio 2013\SmartGit\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 C:\Users\Bruger\Desktop\Visual Studio 2013\SmartGit\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Bruger\Desktop\Visual Studio 2013\SmartGit\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Bruger\Desktop\Visual Studio 2013\SmartGit\test2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Bruger\Desktop\Visual Studio 2013\SmartGit\test2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Bruger\Desktop\Visual Studio 2013\SmartGit\test2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

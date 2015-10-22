@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             int four = 4;
             int five = 5;
+            int six = 6;
         }
     }
 }
